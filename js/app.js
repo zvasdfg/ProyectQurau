@@ -1,4 +1,4 @@
-function retornarFecha()
+function alerta()
 {
 
   var cadena='Sitio Web En Construccion!';
